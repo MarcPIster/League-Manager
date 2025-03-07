@@ -1,0 +1,174 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "ingameName": "JohnDoe",
+      "playerRole": "Top",
+      "birthday": "1990-01-01",
+      "teamId": 1,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team A",
+          "role": "Top",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "ingameName": "JaneDoe",
+      "playerRole": "Jungle",
+      "birthday": "1990-01-01",
+      "teamId": 1,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team A",
+          "role": "Jungle",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Max Mustermann",
+      "ingameName": "MaxMustermann",
+      "playerRole": "Mid",
+      "birthday": "1990-01-01",
+      "teamId": 1,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team A",
+          "role": "Mid",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Erika Mustermann",
+      "ingameName": "ErikaMustermann",
+      "playerRole": "ADC",
+      "birthday": "1990-01-01",
+      "teamId": 1,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team A",
+          "role": "ADC",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hans Müller",
+      "ingameName": "HansMüller",
+      "playerRole": "Support",
+      "birthday": "1990-01-01",
+      "teamId": 1,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team A",
+          "role": "Support",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "John MC Doe",
+      "ingameName": "JohnMc",
+      "playerRole": "Top",
+      "birthday": "1990-01-01",
+      "teamId": 2,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team B",
+          "role": "Top",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Jane MC Doe",
+      "ingameName": "JaneMc",
+      "playerRole": "Jungle",
+      "birthday": "1990-01-01",
+      "teamId": 2,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team B",
+          "role": "Jungle",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Max MC Mustermann",
+      "ingameName": "MaxMc",
+      "playerRole": "Mid",
+      "birthday": "1990-01-01",
+      "teamId": 2,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team B",
+          "role": "Mid",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Erika MC Mustermann",
+      "ingameName": "ErikaMc",
+      "playerRole": "ADC",
+      "birthday": "1990-01-01",
+      "teamId": 2,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team B",
+          "role": "ADC",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hans MC Müller",
+      "ingameName": "HansMc",
+      "playerRole": "Support",
+      "birthday": "1990-01-01",
+      "teamId": 2,
+      "history": [
+        {
+          "teamId": 1,
+          "name": "Team B",
+          "role": "Support",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    }
+  ]
+}

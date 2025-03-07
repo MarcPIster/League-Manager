@@ -1,0 +1,96 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team 1",
+      "ingameName": "TeamONE",
+      "foundDate": "2020-01-01",
+      "currentPlayers": [
+        1,2,3,4,5
+      ],
+      "playerHistory": [
+        {
+          "playerId": 1,
+          "name": "John Doe",
+          "role": "Top",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 2,
+          "name": "Jane Doe",
+          "role": "Jungle",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 3,
+          "name": "Max Mustermann",
+          "role": "Mid",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 4,
+          "name": "Erika Mustermann",
+          "role": "ADC",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 5,
+          "name": "Max Mustermann",
+          "role": "Support",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Team 2",
+      "ingameName": "TeamTWO",
+      "foundDate": "2020-01-01",
+      "currentPlayers": [
+        6,7,8,9,10
+      ],
+      "playerHistory": [
+        {
+          "playerId": 6,
+          "name": "John MC Doe",
+          "role": "Top",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 7,
+          "name": "Jane MC Doe",
+          "role": "Jungle",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 8,
+          "name": "Max MC Mustermann",
+          "role": "Mid",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 9,
+          "name": "Erika MC Mustermann",
+          "role": "ADC",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        },
+        {
+          "playerId": 10,
+          "name": "Max MC Mustermann",
+          "role": "Support",
+          "startDate": "2020-01-01",
+          "endDate": "2020-12-31"
+        }
+      ]
+    }
+  ]
+}
